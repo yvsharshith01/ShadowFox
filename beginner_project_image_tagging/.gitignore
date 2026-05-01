@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+
+# Dataset (too large)
+data/
+
+# Model weights (optional)
+models/*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
